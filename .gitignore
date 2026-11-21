@@ -1,0 +1,17 @@
+# Secrets – never commit
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+*.bak-before-aws-*
+
+# Claude Code personal settings
+.claude/settings.local.json
+
+# Course reference material (not project code)
+ai-security-toolkit 2/
+
+# macOS
+.DS_Store
