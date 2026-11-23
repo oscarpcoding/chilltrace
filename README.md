@@ -1,6 +1,10 @@
-# DevSec Class Project
+# ChillTrace
 
-A project outlining proficiency in configuring security throughout the SDLC.
+ChillTrace is a **fictional** London company that monitors café-chain fridges with IoT
+sensors. Each sensor proves its identity with its own certificate through AWS IoT Core.
+It's a portfolio project showing security across the whole SDLC. All data is fake.
+
+
 
 ## Security
 

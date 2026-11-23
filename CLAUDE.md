@@ -1,4 +1,4 @@
-# DevSec Class Project
+# ChillTrace
 
 A project outlining proficiency in configuring security throughout the SDLC.
 
@@ -23,7 +23,7 @@ with it or with these overrides, the agreement and these overrides win.
   and wait for the user's approval.
 - Anything that creates, changes, deletes, sends or costs money: never without
   explicit approval. Show the plan, the infrastructure-as-code diff and an
-  estimated cost first. Tag resources `Project=DevSec-Class-Project`.
+  estimated cost first. Tag resources `Project=ChillTrace`.
 - Never deploy as a "test" or "example" unless the user asks for it.
 
 ### Scope (least privilege)
