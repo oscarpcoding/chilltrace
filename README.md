@@ -4,7 +4,7 @@ ChillTrace is a **fictional** London company that monitors café-chain fridges w
 sensors. Each sensor proves its identity with its own certificate through AWS IoT Core.
 It's a portfolio project showing security across the whole SDLC. All data is fake.
 
-Built on the Project Build Room company starter by Cyber Agoge.
+
 
 ## Security
 
