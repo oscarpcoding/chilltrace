@@ -9,9 +9,11 @@ secrets/
 
 # Claude Code personal settings
 .claude/settings.local.json
+.claude/settings.local.json.bak*
 
 # Course reference material (not project code)
 ai-security-toolkit 2/
+:incoming/
 
 # macOS
 .DS_Store
